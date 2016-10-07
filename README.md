@@ -1,6 +1,6 @@
 ![CF](https://i.imgur.com/7v5ASc8.png)  Test Repo (Demo)
 =======
-[![Build Status](https://travis-ci.org/codefellows-seattle-301d9/00-test-repo-demo.svg?branch=master)](https://travis-ci.org/codefellows-seattle-301d9/00-test-repo-demo) [![GitHub issues](https://img.shields.io/badge/Stuck%3F-Ask%20for%20Help!-orange.svg)](https://github.com/codefellows/seattle-301d9/issues/new) 
+[![Build Status](https://travis-ci.org/codefellows-seattle-301d14/00-test-repo-demo.svg?branch=master)](https://travis-ci.org/codefellows-seattle-301d9/00-test-repo-demo) [![GitHub issues](https://img.shields.io/badge/Stuck%3F-Ask%20for%20Help!-orange.svg)](https://github.com/codefellows/seattle-301d14/issues/new) 
 
 #### This is only a test. Become familiar with the workflow for your lab assignments!
 
