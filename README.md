@@ -10,12 +10,9 @@ Get some practice in :smiley:
 2. Copy the resulting git link.
 3. `git clone` this fork into your `my-forked-repos` directory (review setup [instructions](https://github.com/codefellows/seattle-301d9/blob/master/README.md#create-and-setup-your-301-directory-structure)).  
 4. `cd` into this repository.  
-5. Immediately `git checkout -b first-name`  
-  - Notice the "build passing" message icon in this README file? That's an import from Travis CI - just one of many continuous integration tools used by organizations and project teams all over the world! We use Travis CI in this class to help us lint code being submitted (in your case as the developer, it will test any PRs you submit for proper linting).
-  - Let's try and get a "build failing" message instead, so we can see what that's like.
-10. Open up the `wat.js` file and remove the semicolon from the end of the line and save the file.
-11. `git add wat.js`
-12. `git commit -m 'remove semicolon to make the lint test fail'`
-13. `git push origin test-branch`
-13. Head over to GitHub to make a PR from `test-branch`, let the test run and finish, and see what the result is!
-14. Also notice the orange Ask For Help button? When you're stuck in lab (after the 15 minute rule), click on this button and fill out the template answering all the questions and finally checking the boxes by placing an 'x' inside the square brackets. When you submit, this will notify the instructional team immediately! (TAs included). Try it out -- click the orange button to get a feel for how it works :sunglasses:
+5. Immediately `git checkout -b firstname-lastname`  
+6. Open up the `wat.js` file and remove the semicolon from the end of the line and save the file.
+7. `git add wat.js`
+8. `git commit -m 'remove semicolon to make the linter fail'`
+9. `git push origin test-branch`
+10. Head over to GitHub to make a PR from `firstname-lastname`.
